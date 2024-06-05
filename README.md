@@ -1,6 +1,6 @@
 # Francesinha Wiki 🥪
 
-Francesinha Wiki is a platform where users can look for francesinhas and their respective ingredients and in which restaurants to find them. Restaurants and francesinhas can be review them, added, deleted and edited. This documentation provides instructions to set up, run the project.
+Francesinha Wiki is a platform where users can look for francesinhas and their respective ingredients and in which restaurants to find them. Restaurants and francesinhas can be reviewed, added, deleted and edited. This documentation provides instructions to set up, run the project.
 
 ## Main Goals
 
@@ -93,7 +93,7 @@ Default environment variables are set up in `/frontend/.env`. These can be chang
 Run the following commands to set up the MySQL database:
 
 ```sh
-chmod +x setup_db.sh && ./setup_db.sh
+cd backend && chmod +x setup_db.sh && ./setup_db.sh
 ```
 
 ### Dependency Download 
