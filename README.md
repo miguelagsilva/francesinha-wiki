@@ -93,7 +93,7 @@ Default environment variables are set up in `/frontend/.env`. These can be chang
 Run the following commands to set up the MySQL database:
 
 ```sh
-cd backend && chmod +x setup_db.sh && ./setup_db.sh
+cd backend && chmod +x setup.sh && ./setup.sh
 ```
 
 ### Dependency Download 
