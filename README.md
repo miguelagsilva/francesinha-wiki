@@ -98,7 +98,7 @@ cd backend && chmod +x setup.sh && ./setup.sh
 
 ### Dependency Download 
 
-Run the following commands inside both the frontend and backend folders to redownload the dependencies if needed.
+Run the following commands inside both the frontend and backend folders to redownload the dependencies.
 
 ```sh
 npm install
