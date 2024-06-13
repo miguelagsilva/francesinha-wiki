@@ -118,3 +118,18 @@ npm start
 - Hyperlinks when clicking restaurants in a Francesinha's description and vice-versa
 - Implementing code tests
 - Creating the API documentation
+
+### Pictures
+
+#### Home Page
+![Home](./images/home-page.png)
+
+#### Francesinhas Page
+![Francesinha](./images/francesinha-page.png)
+
+#### Restaurants Page
+![Restaurant](./images/restaurant-page.png)
+
+#### Ingredients Page
+![Ingredients](./images/ingredient-page.png)
+
